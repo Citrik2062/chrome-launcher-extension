@@ -3,7 +3,7 @@ This is the sample code for an extension that lets you open custom links from a 
 
 HOW TO USE THIS TEMPLATE
 
-1. First, create a directory, you can call it whatever you want (I will refer to it as "main directory")
+1. First, create a directory (folder), you can call it whatever you want (I will refer to it as "main directory")
 
 2. Move the manifest.json, popup.html, and popup.js files into the main directory
 
